@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 -->
 ### I'm Kseniia 👩‍💻
 - 🔭 MSc in Information Science and Technology and Applied Mathematics and Physics
-- 💼 I'm looking for new projects on Machine Learning and Deep Learning (especially deployment to production)
+- 💼 I'm currently working on Computer Vision for Autonomous Driving application
+- 🤔 I'm looking for new projects on Machine Learning and Deep Learning (especially deployment to production)
 - 🌱 I’m currently learning HDFS, MapReduce and Spark
 - 📝 For more info see my [CV](https://github.com/yagafarova/yagafarova/blob/master/CV_Iagafarova.pdf)
 
