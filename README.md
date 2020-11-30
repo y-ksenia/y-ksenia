@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 * [My Coursera courses](https://github.com/yagafarova/Coursera): lectures and my submissions
 
 ### My modest stats (in progress...)
-![Github stats](https://github-readme-stats.vercel.app/api?username=yagafarova&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=y-ksenia&show_icons=true)
