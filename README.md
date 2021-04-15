@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 🔭 MSc in Information Science and Technology and Applied Mathematics and Physics
 - 💼 I'm currently working on Computer Vision for Autonomous Driving application
 - 🤔 I'm looking for new projects on Machine Learning and Deep Learning (especially deployment to production)
-<!-- - 🌱 I’m currently learning HDFS, MapReduce and Spark-->
 - 📝 For more info see my [CV](https://github.com/yagafarova/yagafarova/blob/master/CV_Iagafarova.pdf)
+- <!-- - 🌱 I’m currently learning HDFS, MapReduce and Spark-->
 
 ### Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
