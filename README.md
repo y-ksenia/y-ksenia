@@ -3,15 +3,15 @@
 <a href="mailTo:xeniayagafarova@gmail.com">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />
 </a>
-<a href="https://linkedin.com/in/kseniia-iagafarova">
+<a href="https://linkedin.com/in/y-ksenia">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/y_ksenia">
   <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/yagafarova.ksenia/">
+<!-- <a href="https://www.facebook.com/yagafarova.ksenia/">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 
 <br />
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🔭 MSc in Information Science and Technology and Applied Mathematics and Physics
 - 💼 I'm currently working on Computer Vision for Autonomous Driving application
 - 🤔 I'm looking for new projects on Machine Learning and Deep Learning (especially deployment to production)
-- 📝 For more info see my [CV](https://github.com/yagafarova/yagafarova/blob/master/CV_Iagafarova.pdf)
+- 📝 For more info see my [CV](https://github.com/y-ksenia/y-ksenia/blob/master/CV_Kseniia_Alekseitseva.pdf)
 <!-- - 🌱 I’m currently learning HDFS, MapReduce and Spark-->
 
 ### Languages and tools
